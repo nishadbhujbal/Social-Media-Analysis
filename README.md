@@ -28,8 +28,9 @@ This web application is designed to provide real-time insights into social media
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Soham-Niungare/Social-Media-Analysis.git
-   
+   git clone https://github.com/nishadbhujbal/Social-Media-Analysis.git
+
+   ```
 2. Navigate to the project directory:
 
    ```bash
@@ -88,10 +89,10 @@ Each part of the application needs to be run in a separate terminal.
 
 ## Future Enhancements
 
-Trend Identification: Implement advanced techniques like topic modeling or keyword extraction to identify emerging trends.
-Sentiment Analysis Refinement: Explore more sophisticated sentiment analysis models to improve accuracy.
-User Interface Customization: Enhance the user interface with additional features like filtering, sorting, and exporting data.
-Real-time Updates: Implement a mechanism to update the dashboard in real-time as new tweets are fetched.
-Security: Implement robust security measures to protect user data and prevent unauthorized access.
+- **Trend Identification**: Implement advanced techniques like topic modeling or keyword extraction to identify emerging trends.
+- **Sentiment Analysis Refinement**: Explore more sophisticated sentiment analysis models to improve accuracy.
+- **User Interface Customization**: Enhance the user interface with additional features like filtering, sorting, and exporting data.
+- **Real-time Updates**: Implement a mechanism to update the dashboard in real-time as new tweets are fetched.
+- **Security**: Implement robust security measures to protect user data and prevent unauthorized access.
 
 By continuously refining and expanding these features, we aim to create a powerful tool for social media analysis that provides valuable insights to businesses, organizations, and individuals.
